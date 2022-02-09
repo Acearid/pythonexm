@@ -4,7 +4,7 @@ def medel(x):
 
 #listan x
 x = [1, 2, 100, 354, 22, 143]
-#Svart som variabel
+#Svar som variabel
 svar = medel(x)
 #svar text
 print(svar)
